@@ -1,0 +1,193 @@
+{
+  "nom_entreprise": "Maison et Jardin 82",
+  "type_artisan": "Paysagiste",
+  "ville": "Les Barthes",
+  "telephone_affiche": "07 86 06 10 57",
+  "telephone_tel": "+33786061057",
+  "annee": "2026",
+  "hero": {
+    "image": "images/hero-bg.jpg",
+    "titre": "Votre paysagiste à Les Barthes et dans tout le Tarn-et-Garonne",
+    "description": "Maison et Jardin 82 crée, aménage et entretient vos espaces verts avec passion. Création de jardins, entretien, élagage et taille de haies à Les Barthes, Castelsarrasin, Moissac et Montauban."
+  },
+  "apropos": {
+    "image": "images/apropos.webp",
+    "texte": "Maison et Jardin 82 est votre paysagiste de référence à Les Barthes et dans tout le Tarn-et-Garonne. Depuis 15 ans, nous concevons, aménageons et entretenons des espaces verts qui reflètent la personnalité de chacun. Passionnés par le végétal et le travail soigné, nous accompagnons particuliers et professionnels de la première esquisse à la dernière plantation, avec une exigence constante de qualité et de respect des délais.\n\nCréation de jardins sur mesure, aménagement paysager complet, terrasses et allées, entretien régulier, élagage, taille de haies : nous maîtrisons l'ensemble des prestations, à Les Barthes comme à Castelsarrasin, Moissac, Montauban, Saint-Nicolas-de-la-Grave, Lafrançaise ou Valence-d'Agen. Avec plus de 300 projets réalisés en Occitanie, Maison et Jardin 82 s'appuie sur un savoir-faire reconnu et des matériaux de qualité pour créer des extérieurs durables et harmonieux, adaptés au climat du Sud-Ouest. Votre satisfaction et la beauté de votre jardin sont notre priorité.",
+    "badges": [
+      "Artisan paysagiste en Tarn-et-Garonne",
+      "Devis gratuit sous 24h",
+      "15 ans d'expérience"
+    ]
+  },
+  "stats": [
+    {
+      "valeur": "15",
+      "label": "Ans d'expérience"
+    },
+    {
+      "valeur": "300",
+      "label": "Projets réalisés"
+    }
+  ],
+  "services": [
+    {
+      "titre": "Création et conception de jardins",
+      "description": "Nous élaborons des plans détaillés et des projets sur mesure pour créer le jardin dont vous rêvez, du style contemporain au jardin méditerranéen adapté au Sud-Ouest.",
+      "image": "images/service1.webp"
+    },
+    {
+      "titre": "Aménagement paysager complet",
+      "description": "De la préparation du sol aux plantations, en passant par les terrasses et les allées, nous prenons en charge l'intégralité de votre projet extérieur en Tarn-et-Garonne.",
+      "image": "images/service2.webp"
+    },
+    {
+      "titre": "Entretien d'espaces verts",
+      "description": "Tonte, débroussaillage, désherbage et soins des massifs : profitez d'un jardin impeccable toute l'année, en contrat annuel ou en intervention ponctuelle.",
+      "image": "images/service3.webp"
+    },
+    {
+      "titre": "Élagage et abattage d'arbres",
+      "description": "Interventions sécurisées pour l'élagage, l'abattage ou le dessouchage. Nous veillons à la santé de vos arbres et à la sécurité de votre propriété.",
+      "image": "images/service4.webp"
+    },
+    {
+      "titre": "Taille de haies",
+      "description": "Nous taillons vos haies avec précision pour des contours nets et durables, en préservant la forme et la vigueur de chaque végétal.",
+      "image": "images/service5.webp"
+    },
+    {
+      "titre": "Nettoyage de terrasses et dallages",
+      "description": "Nettoyage haute pression de vos terrasses, dallages et allées pour éliminer mousses et salissures et retrouver un sol éclatant.",
+      "image": "images/service6.webp"
+    }
+  ],
+  "avis": {
+    "google_score": "5.0",
+    "nb_avis": "3 avis",
+    "visible": true,
+    "temoignages": [
+      {
+        "initiale": "C",
+        "nom": "Christophe P.",
+        "texte": "Très bon rapport qualité prix, je recommande. Le travail effectué chez nous (abattage d'arbres et taille de haie) a été très bien réalisé."
+      },
+      {
+        "initiale": "M",
+        "nom": "Michèle G.",
+        "texte": "Très compétents et agréables, travail nickel : taille des haies et ramassage impeccables, travaux réalisés près de Castelsarrasin."
+      },
+      {
+        "initiale": "T",
+        "nom": "Thony C.",
+        "texte": "Contact sympa, très bon feeling, connaît très bien son métier. Travail sérieux, propre et professionnel. Je recommande vivement."
+      }
+    ]
+  },
+  "galerie": [
+    {
+      "image": "images/gallery1.webp",
+      "legende": "Taille de haies le long d'une allée à Les Barthes"
+    },
+    {
+      "image": "images/gallery2.webp",
+      "legende": "Élagage et abattage d'arbre en Tarn-et-Garonne"
+    },
+    {
+      "image": "images/gallery3.webp",
+      "legende": "Taille d'arbuste et nettoyage du terrain"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quels travaux de paysagiste réalisez-vous à Les Barthes ?",
+      "reponse": "Maison et Jardin 82 réalise la création et la conception de jardins sur mesure, l'aménagement paysager complet (terrasses, allées, plantations), l'entretien régulier d'espaces verts, l'élagage et l'abattage d'arbres, la taille de haies ainsi que le nettoyage de terrasses et dallages."
+    },
+    {
+      "question": "Quelles communes desservez-vous autour de Les Barthes ?",
+      "reponse": "Nous intervenons à Les Barthes et dans tout le Tarn-et-Garonne : Castelsarrasin, Moissac, Montauban, Saint-Nicolas-de-la-Grave, Lafrançaise, Valence-d'Agen et les communes environnantes. Appelez-nous au 07 86 06 10 57 pour vérifier votre secteur."
+    },
+    {
+      "question": "Proposez-vous des contrats d'entretien de jardin à l'année ?",
+      "reponse": "Oui, nous proposons des formules d'entretien personnalisées, ponctuelles ou régulières (tonte, taille, débroussaillage, désherbage), pour garder votre jardin impeccable toute l'année."
+    },
+    {
+      "question": "Le devis est-il gratuit ?",
+      "reponse": "Oui, nous nous déplaçons pour étudier votre projet et vous remettons un devis détaillé, entièrement gratuit et sans engagement, sous 24 à 48h."
+    },
+    {
+      "question": "Combien coûte l'entretien d'un jardin dans le Tarn-et-Garonne ?",
+      "reponse": "Le tarif dépend de la surface du terrain, de la fréquence de passage et des prestations retenues. Après une visite sur place, nous vous transmettons un prix ferme et détaillé, sans surprise."
+    }
+  ],
+  "contact_description": "Décrivez votre projet de jardin à Les Barthes ou dans le Tarn-et-Garonne et recevez un devis personnalisé sous 24h — gratuit et sans engagement.",
+  "footer_description": "Paysagiste à Les Barthes, Maison et Jardin 82 crée, aménage et entretient vos jardins et espaces verts dans tout le Tarn-et-Garonne : Castelsarrasin, Moissac, Montauban et alentours.",
+  "design": {
+    "nav_style": "transparent",
+    "stats_style": "classique",
+    "palette": "vert"
+  },
+  "horaires": {
+    "visible": false,
+    "adresse": "Les Barthes (82100), Tarn-et-Garonne",
+    "lat": 44.0472,
+    "lng": 1.1233,
+    "jours": [
+      {
+        "nom": "Lundi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "14:00",
+        "am_fin": "19:00"
+      },
+      {
+        "nom": "Mardi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "14:00",
+        "am_fin": "19:00"
+      },
+      {
+        "nom": "Mercredi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "14:00",
+        "am_fin": "19:00"
+      },
+      {
+        "nom": "Jeudi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "14:00",
+        "am_fin": "19:00"
+      },
+      {
+        "nom": "Vendredi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "14:00",
+        "am_fin": "19:00"
+      },
+      {
+        "nom": "Samedi",
+        "ferme": true,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "14:00",
+        "am_fin": "19:00"
+      },
+      {
+        "nom": "Dimanche",
+        "ferme": true,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "14:00",
+        "am_fin": "19:00"
+      }
+    ]
+  }
+}

@@ -63,38 +63,65 @@
   ],
   "avis": {
     "google_score": "5.0",
-    "nb_avis": "3 avis",
+    "nb_avis": "6 avis Google",
     "visible": true,
     "temoignages": [
       {
+        "initiale": "M",
+        "nom": "Matt P",
+        "texte": "Merci à Claude et son équipe pour son travail sur notre maison. Je les recommande !"
+      },
+      {
         "initiale": "C",
-        "nom": "Christophe P.",
-        "texte": "Très bon rapport qualité prix, je recommande. Le travail effectué chez nous (abattage d'arbres et taille de haie) a été très bien réalisé."
+        "nom": "Christian Lacoste",
+        "texte": "Excellent travail d'élagage exécuté sur un pin parasol d'une quarantaine d'année, en environ 2 heures. Equipe très efficace et très bien outillée."
       },
       {
         "initiale": "M",
-        "nom": "Michèle G.",
-        "texte": "Très compétents et agréables, travail nickel : taille des haies et ramassage impeccables, travaux réalisés près de Castelsarrasin."
+        "nom": "Marie-Christine Quéré",
+        "texte": "Élagueur maison et jardin est une entreprise sérieuse, ils sont très bien équipés avec un grand professionnalisme. Ils ont fait plusieurs travaux chez moi, rien à dire, travail impeccable. Ils donnent d'excellents conseils. Ponctuels, rapides, très adroits ! Personnes de confiance, une qualité appréciable de nos jours."
       },
       {
-        "initiale": "T",
-        "nom": "Thony C.",
-        "texte": "Contact sympa, très bon feeling, connaît très bien son métier. Travail sérieux, propre et professionnel. Je recommande vivement."
+        "initiale": "M",
+        "nom": "Marie-Noelle Garnier",
+        "texte": "Travail très soigné, les jardiniers ont été attentifs à mes demandes."
+      },
+      {
+        "initiale": "C",
+        "nom": "Carine Caron",
+        "texte": "Très sérieux, travail impeccable, vraiment rien à dire et surtout très professionnel."
+      },
+      {
+        "initiale": "P",
+        "nom": "Patricia Lacouture",
+        "texte": "Je recommande vivement L'Élagueur Maison et Jardin. L'intervention sur ma propriété a été extrêmement rapide et le travail d'élagage est impeccable. Efficacité et professionnalisme au rendez-vous. Merci encore !"
       }
     ]
   },
   "galerie": [
     {
       "image": "images/gallery1.webp",
-      "legende": "Taille de haies le long d'une allée à Les Barthes"
+      "legende": "Élagage en nacelle à Les Barthes (82)"
     },
     {
       "image": "images/gallery2.webp",
-      "legende": "Élagage et abattage d'arbre en Tarn-et-Garonne"
+      "legende": "Abattage d'un grand arbre avec notre camion nacelle"
     },
     {
       "image": "images/gallery3.webp",
-      "legende": "Taille d'arbuste et nettoyage du terrain"
+      "legende": "Entretien de jardin et taille en Tarn-et-Garonne"
+    },
+    {
+      "image": "images/gallery4.webp",
+      "legende": "Démoussage et entretien de toiture"
+    },
+    {
+      "image": "images/gallery5.webp",
+      "legende": "Tonte et remise en état d'une pelouse"
+    },
+    {
+      "image": "images/gallery6.webp",
+      "legende": "Rénovation d'un portail et d'une clôture"
     }
   ],
   "faq": [

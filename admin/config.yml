@@ -92,6 +92,11 @@ collections:
               - label: "Photo"
                 name: image
                 widget: image
+              - label: "Page dédiée (fichier .html)"
+                name: page
+                widget: string
+                required: false
+                hint: "Nom du fichier de la page service, ex. creation-jardin.html. Laisser tel quel."
 
           - label: "Avis clients"
             name: avis

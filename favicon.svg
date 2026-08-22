@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Maison et Jardin 82">
+  <rect width="64" height="64" rx="14" fill="#3f6b4a"/>
+  <!-- toit de la maison -->
+  <path d="M32 12 L52 29 L46.5 29 L32 16.6 L17.5 29 L12 29 Z" fill="#ffffff"/>
+  <path d="M32 20 L44 30.5 V50 H20 V30.5 Z" fill="#ffffff" opacity="0.22"/>
+  <!-- feuille -->
+  <path d="M32 47c-7-2-11-7.5-11-14 6.5-1 12 1.5 14.5 6.5 2-4.5 5.5-7.5 9.5-8.5-.5 9-6 15-13 16z" fill="#ffffff"/>
+  <path d="M32 48c1-6 4-11 9-14.5" stroke="#3f6b4a" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+</svg>

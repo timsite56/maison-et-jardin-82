@@ -33,32 +33,38 @@
     {
       "titre": "Création et conception de jardins",
       "description": "Nous élaborons des plans détaillés et des projets sur mesure pour créer le jardin dont vous rêvez, du style contemporain au jardin méditerranéen adapté au Sud-Ouest.",
-      "image": "images/service1.webp"
+      "image": "images/service1.webp",
+      "page": "creation-jardin.html"
     },
     {
       "titre": "Aménagement paysager complet",
       "description": "De la préparation du sol aux plantations, en passant par les terrasses et les allées, nous prenons en charge l'intégralité de votre projet extérieur en Tarn-et-Garonne.",
-      "image": "images/service2.webp"
+      "image": "images/service2.webp",
+      "page": "amenagement-paysager.html"
     },
     {
       "titre": "Entretien d'espaces verts",
       "description": "Tonte, débroussaillage, désherbage et soins des massifs : profitez d'un jardin impeccable toute l'année, en contrat annuel ou en intervention ponctuelle.",
-      "image": "images/service3.webp"
+      "image": "images/service3.webp",
+      "page": "entretien-espaces-verts.html"
     },
     {
       "titre": "Élagage et abattage d'arbres",
       "description": "Interventions sécurisées pour l'élagage, l'abattage ou le dessouchage. Nous veillons à la santé de vos arbres et à la sécurité de votre propriété.",
-      "image": "images/service4.webp"
+      "image": "images/service4.webp",
+      "page": "elagage-abattage.html"
     },
     {
       "titre": "Taille de haies",
       "description": "Nous taillons vos haies avec précision pour des contours nets et durables, en préservant la forme et la vigueur de chaque végétal.",
-      "image": "images/service5.webp"
+      "image": "images/service5.webp",
+      "page": "taille-de-haies.html"
     },
     {
       "titre": "Nettoyage de terrasses et dallages",
       "description": "Nettoyage haute pression de vos terrasses, dallages et allées pour éliminer mousses et salissures et retrouver un sol éclatant.",
-      "image": "images/service6.webp"
+      "image": "images/service6.webp",
+      "page": "nettoyage-terrasses.html"
     }
   ],
   "avis": {

@@ -255,7 +255,7 @@
   ]
 }
   </script>
-  <link rel="preload" as="image" href="images/hero-bg.jpg" />
+  <link rel="preload" as="image" href="images/hero-bg.jpg" fetchpriority="high" />
   <!-- SEO-BLOCK-END -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -571,7 +571,7 @@
   <button class="burger" id="burger" aria-label="Menu"><span></span><span></span><span></span></button>
 </nav>
 
-<section id="hero">
+<section id="hero" style="background-image:url('images/hero-bg.jpg')">
   <div class="hero-inner">
     <span class="eyebrow" id="heroEyebrow"> </span>
     <h1 id="heroTitle"> </h1>
@@ -614,7 +614,7 @@
 
 <section id="apropos" class="sec">
   <div class="wrap about-grid">
-    <div class="about-photo"><img id="aboutImg" src="" alt="" loading="lazy"/></div>
+    <div class="about-photo"><img id="aboutImg" src="images/apropos.webp" alt="Maison et Jardin 82 — paysagiste à Les Barthes" loading="lazy"/></div>
     <div>
       <span class="eyebrow">À propos</span>
       <h2 class="about-title" id="aboutTitle"> </h2>

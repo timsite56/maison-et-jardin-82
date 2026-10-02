@@ -636,7 +636,7 @@ async function updateSeoInIndex() {
     const ville = htmlAttr(state.ville);
     const tel   = state.telephone_tel  || state.telephone_affiche || '';
     const rawDesc = htmlAttr(state.hero.description || state.hero.titre).slice(0, 160);
-    const siteUrl = window.location.origin + '/';
+    const siteUrl = 'https://maison-et-jardin-82.pages.dev/';
 
     const title    = [nom, type && ville ? `${type} à ${ville}` : (type || ville)].filter(Boolean).join(' — ');
     const ogTitle  = title;

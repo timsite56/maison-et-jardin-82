@@ -7,12 +7,12 @@
   "annee": "2026",
   "hero": {
     "image": "images/hero-bg.jpg",
-    "titre": "Votre paysagiste à Les Barthes et dans tout le Tarn-et-Garonne",
-    "description": "Maison et Jardin 82 crée, aménage et entretient vos espaces verts avec passion. Création de jardins, entretien, élagage et taille de haies à Les Barthes, Castelsarrasin, Moissac et Montauban."
+    "titre": "Paysagiste et élagueur aux Barthes (82)",
+    "description": "Maison et Jardin 82 crée, aménage et entretient vos espaces verts avec passion. Création de jardins, entretien, élagage et taille de haies aux Barthes, Castelsarrasin, Moissac et Montauban."
   },
   "apropos": {
     "image": "images/apropos.webp",
-    "texte": "Maison et Jardin 82 est votre paysagiste de référence à Les Barthes et dans tout le Tarn-et-Garonne. Depuis 15 ans, nous concevons, aménageons et entretenons des espaces verts qui reflètent la personnalité de chacun. Passionnés par le végétal et le travail soigné, nous accompagnons particuliers et professionnels de la première esquisse à la dernière plantation, avec une exigence constante de qualité et de respect des délais.\n\nCréation de jardins sur mesure, aménagement paysager complet, terrasses et allées, entretien régulier, élagage, taille de haies : nous maîtrisons l'ensemble des prestations, à Les Barthes comme à Castelsarrasin, Moissac, Montauban, Saint-Nicolas-de-la-Grave, Lafrançaise ou Valence-d'Agen. Avec plus de 300 projets réalisés en Occitanie, Maison et Jardin 82 s'appuie sur un savoir-faire reconnu et des matériaux de qualité pour créer des extérieurs durables et harmonieux, adaptés au climat du Sud-Ouest. Votre satisfaction et la beauté de votre jardin sont notre priorité.",
+    "texte": "Maison et Jardin 82 est votre paysagiste de référence aux Barthes et dans tout le Tarn-et-Garonne. Depuis 15 ans, nous concevons, aménageons et entretenons des espaces verts qui reflètent la personnalité de chacun. Passionnés par le végétal et le travail soigné, nous accompagnons particuliers et professionnels de la première esquisse à la dernière plantation, avec une exigence constante de qualité et de respect des délais.\n\nCréation de jardins sur mesure, aménagement paysager complet, terrasses et allées, entretien régulier, élagage, taille de haies : nous maîtrisons l'ensemble des prestations, aux Barthes comme à Castelsarrasin, Moissac, Montauban, Saint-Nicolas-de-la-Grave, Lafrançaise ou Valence-d'Agen. Avec plus de 300 projets réalisés en Occitanie, Maison et Jardin 82 s'appuie sur un savoir-faire reconnu et des matériaux de qualité pour créer des extérieurs durables et harmonieux, adaptés au climat du Sud-Ouest. Votre satisfaction et la beauté de votre jardin sont notre priorité.",
     "badges": [
       "Artisan paysagiste en Tarn-et-Garonne",
       "Devis gratuit sous 24h",
@@ -107,7 +107,7 @@
   "galerie": [
     {
       "image": "images/gallery1.webp",
-      "legende": "Élagage en nacelle à Les Barthes (82)"
+      "legende": "Élagage en nacelle aux Barthes (82)"
     },
     {
       "image": "images/gallery2.webp",
@@ -132,12 +132,12 @@
   ],
   "faq": [
     {
-      "question": "Quels travaux de paysagiste réalisez-vous à Les Barthes ?",
+      "question": "Quels travaux de paysagiste réalisez-vous aux Barthes ?",
       "reponse": "Maison et Jardin 82 réalise la création et la conception de jardins sur mesure, l'aménagement paysager complet (terrasses, allées, plantations), l'entretien régulier d'espaces verts, l'élagage et l'abattage d'arbres, la taille de haies ainsi que le nettoyage de terrasses et dallages."
     },
     {
-      "question": "Quelles communes desservez-vous autour de Les Barthes ?",
-      "reponse": "Nous intervenons à Les Barthes et dans tout le Tarn-et-Garonne : Castelsarrasin, Moissac, Montauban, Saint-Nicolas-de-la-Grave, Lafrançaise, Valence-d'Agen et les communes environnantes. Appelez-nous au 07 86 06 10 57 pour vérifier votre secteur."
+      "question": "Quelles communes desservez-vous autour des Barthes ?",
+      "reponse": "Nous intervenons aux Barthes et dans tout le Tarn-et-Garonne : Castelsarrasin, Moissac, Montauban, Saint-Nicolas-de-la-Grave, Lafrançaise, Valence-d'Agen et les communes environnantes. Appelez-nous au 07 86 06 10 57 pour vérifier votre secteur."
     },
     {
       "question": "Proposez-vous des contrats d'entretien de jardin à l'année ?",
@@ -152,8 +152,8 @@
       "reponse": "Le tarif dépend de la surface du terrain, de la fréquence de passage et des prestations retenues. Après une visite sur place, nous vous transmettons un prix ferme et détaillé, sans surprise."
     }
   ],
-  "contact_description": "Décrivez votre projet de jardin à Les Barthes ou dans le Tarn-et-Garonne et recevez un devis personnalisé sous 24h — gratuit et sans engagement.",
-  "footer_description": "Paysagiste à Les Barthes, Maison et Jardin 82 crée, aménage et entretient vos jardins et espaces verts dans tout le Tarn-et-Garonne : Castelsarrasin, Moissac, Montauban et alentours.",
+  "contact_description": "Décrivez votre projet de jardin aux Barthes ou dans le Tarn-et-Garonne et recevez un devis personnalisé sous 24h — gratuit et sans engagement.",
+  "footer_description": "Paysagiste aux Barthes, Maison et Jardin 82 crée, aménage et entretient vos jardins et espaces verts dans tout le Tarn-et-Garonne : Castelsarrasin, Moissac, Montauban et alentours.",
   "design": {
     "nav_style": "transparent",
     "stats_style": "classique",

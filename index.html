@@ -963,8 +963,9 @@
    le même destinataire et le même suivi. S'il manque un champ obligatoire, il amène le visiteur au formulaire complet. */
 (function(){var m=document.getElementById('miniDevis'),f=document.getElementById('devisForm');if(!m||!f)return;
 /* même couleur que le bouton d'appel du haut de page, quel que soit le gabarit */
-var ref=document.querySelector('.hero-btns a.phone-link')||document.querySelector('.hero-btns a');
-if(ref){var bg=getComputedStyle(ref).backgroundColor;if(bg&&!/rgba\(0, 0, 0, 0\)|transparent/.test(bg))m.style.setProperty('--md-accent',bg);}
+function teinte(){var ref=document.querySelector('.hero-btns a.phone-link')||document.querySelector('.hero-btns a');
+if(ref){var bg=getComputedStyle(ref).backgroundColor;if(bg&&!/rgba\(0, 0, 0, 0\)|transparent/.test(bg))m.style.setProperty('--md-accent',bg);}}
+teinte();window.addEventListener('load',function(){teinte();setTimeout(teinte,800);setTimeout(teinte,2500);});m.addEventListener('focusin',teinte);
 var src=f.querySelector('select[name="type_prestation"],select[name="type_travaux"]'),dst=m.querySelector('select');
 if(src){[].forEach.call(src.options,function(o){if(!o.value&&o.disabled)return;if(!o.textContent.trim())return;var n=document.createElement('option');n.value=o.value||o.textContent;n.textContent=o.textContent;dst.appendChild(n);});}else{dst.parentNode.removeChild(dst);}
 function mettre(sel,v){var el=f.querySelector(sel);if(el&&v)el.value=v;}
